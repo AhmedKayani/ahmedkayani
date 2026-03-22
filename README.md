@@ -57,7 +57,7 @@ Git, GitHub, Docker (learning), REST APIs
 
 ## 📫 Connect With Me
 
-* LinkedIn: *linkedin.com/in/kayaniahmed*
+* LinkedIn: *www.linkedin.com/in/kayaniahmed*
 * Email: *ahmedkayani786@yahoo.com*
 
 ---
